@@ -1,7 +1,5 @@
-# Careful!
+# IoT-Aziz
 
-You seem to have visited `github.com/me50/USERNAME`, but you forgot to replace `USERNAME` with your own GitHub username! For instance, if your GitHub username were `jharvard` (which it isn't!), you should have visited `github.com/me50/jharvard` instead of `github.com/me50/USERNAME`.
+#### Video Demo: https://firebasestorage.googleapis.com/v0/b/without-e1970.appspot.com/o/bmwTracking%20%E2%80%93%20MapsActivity.java%20%5BbmwTracking.app.main%5D%202023-04-14%2020-52-00.mp4?alt=media&token=dc3002b7-4176-4259-bc2f-81a4208ecc29
 
-## tl;dr
-
-Visit `github.com/me50/USERNAME`, where `USERNAME` is your own GitHub username, not `USERNAME` literally!
+#### Description: Application android for tracking device, build from scratch and using langauage java also this project allow intergration another project as ex: delivery restaurants
